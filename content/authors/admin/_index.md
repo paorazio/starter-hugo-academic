@@ -1,8 +1,10 @@
 ---
 title: Paola D'Orazio
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Professor of Economics
+bio: As a Junior Professor in Economics at the Technische Universität Chemnitz,
+  I am passionate about exploring the role of climate-related financial policies
+  in creating a stable financial system and transitioning to a low-carbon
+  economy.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
